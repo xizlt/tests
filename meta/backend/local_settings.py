@@ -1,13 +1,13 @@
 # DJANGO KEY
-SECRET_KEY = 'fe$+o@lqgaptns0aaxno&gu7wwox&3w&0(!(an#=c@m1htq7se'
+SECRET_KEY = ''
 
 # Postgres
-POSTGRES_NAME = 'dwtmxshb'
-POSTGRES_USER = 'dwtmxshb'
-PASSWORD = 'blwD48ADQfJmNMF7Mmc1vXHQN2S56f8-'
-HOST = 'rogue.db.elephantsql.com'
+POSTGRES_NAME = ''
+POSTGRES_USER = ''
+PASSWORD = ''
+HOST = ''
 
 # AIRTABLE
 AIRTABLE_TABLE_NAME = 'Psychotherapists'
-AIRTABLE_BASE_ID = 'apprWiWML7SBvtTuh'
-AIRTABLE_YOUR_API_KEY = 'keyTbAFwBYSGrYT75'
+AIRTABLE_BASE_ID = ''
+AIRTABLE_YOUR_API_KEY = ''
