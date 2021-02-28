@@ -2,7 +2,7 @@
 <h1>Важно</H1>
 <p> Настройки для проекта <b>local_settings.py</b></p>
 <p>Адрес данных HOST + "api/v1/profiles"</p>
-<p> Скрипт по работе с airtable в  директории <b> airtable/service.py</b></p>
+<p> Скрипт по работе с airtable в  директории <b> airtable/run.py</b></p>
 <p> В папке Frontend нужно указать сервер приёма данных</p>
 
 <br>
