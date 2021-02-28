@@ -13,5 +13,6 @@ class ProfileView(viewsets.ModelViewSet):
 
 
 class LaunchView(viewsets.ModelViewSet):
+    permission_classes = [IsAuthenticatedOrReadOnly]
     queryset = Launch.objects.all()
     serializer_class = LaunchSerializer

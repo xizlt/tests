@@ -17,6 +17,7 @@ class ProfileSerializer(serializers.ModelSerializer):
         model = Profile
         fields = ['id', 'name', 'photo', "methods"]
 
+
 class LaunchSerializer(serializers.ModelSerializer):
     class Meta:
         model = Launch
